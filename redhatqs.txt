@@ -1,0 +1,48 @@
+Section 1 - Design & Development
+Q1
+Could you outline what you would consider to be the important considerations If you were
+asked to develop a web application that could potentially be used by thousands of users?
+
+Answer:
+My biggest consideration would be performance/speed. In my current role I spend a lot of time thinking about how to improve my queries to maximum speed of the websites I work on.  
+
+Q2
+What techniques do you employ to keep up-to-date with the rapid pace of progress in the
+field frontend development? How do you choose which technologies are worth taking the
+time to learn more about?
+
+Answer:
+I try to follow influential people in the field (Chris Coyier, Paul Irish, Robin Cornett to name a few) on twitter. I also use codecademy and lynda as well on my down time. 
+
+If I feel like a certain technology can help me with something I am working on or do something faster than I feel like it's worth learning. I learn best when I have a practical use for the technology I'm trying to learn. However, take react.js I have no practical use for this in my role today but I know this is becoming one of the standard javascript frameworks so I'm using my free time to learn it. 
+
+ 
+
+Section 2 - & Deployment
+Q1
+Describe the approach you take in testing your applications.
+
+Answer:
+I don't currently work on applications rather than websites. I do cross browser testing in the actual browsers and on a small selection of devices and use virtual box to emulate the browser I don't have available to test on.
+ 
+Q2
+What do you value in a code base?
+
+Answer:
+Scalability. And comments, lots of comments.
+
+Section 3 - General
+Q1
+What do you find most exciting or interesting about working in the software development
+field?
+
+Answer:
+I've been on the website development side for a long time. I'm looking forward to a new challenge and learning techniques for coding web apps rather then content based websites.
+ 
+Q2
+In your career to date, what are you most proud of and why?
+
+Answer:
+I'm sure most people answer with a particular project they are proud of. I am proud of each and every project I work on because I really care about the users who are consuming the websites I work and given them the best possible user experience. I also really care about the back-end user experience and creating an easy to use interface that allows them to deliver the best possible experience. But those things I wouldn't say is what I'm most proud of, that's what I do everyday. 
+
+I started off my career as a graphic designer who got thrown into a web designer role, which then morphed into a developer role. Which each new role I have taken more technical challenges then with the last. I would say that I am most proud that I have been able to change my career path into something I really enjoy and that I continue to seek out new challenges everyday. 
