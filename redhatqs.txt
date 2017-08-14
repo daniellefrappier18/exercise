@@ -1,7 +1,7 @@
 Section 1 - Design & Development
 Q1
 Could you outline what you would consider to be the important considerations If you were
-asked to develop a web application that could potentially be used by thousands of users?
+asked to develop a web application that could potentially be used by athousands of users?
 
 Answer:
 My biggest consideration would be performance/speed. In my current role I spend a lot of time thinking about how to improve my queries to maximum speed of the websites I work on.  
@@ -23,7 +23,9 @@ Q1
 Describe the approach you take in testing your applications.
 
 Answer:
-I don't currently work on applications rather than websites. I do cross browser testing in the actual browsers and on a small selection of devices and use virtual box to emulate the browser I don't have available to test on.
+I don't currently work on applications, I work on websites. I do cross browser testing in the actual browsers and on a small selection of devices and use virtual box to emulate the browser I don't have available to test on.
+I also turn on PHP notices on my local environment to catch any issues before moving to production. 
+For javascript code I use: http://jshint.com to fix and enhance any javascript code that is added to the site.
  
 Q2
 What do you value in a code base?
@@ -37,12 +39,11 @@ What do you find most exciting or interesting about working in the software deve
 field?
 
 Answer:
-I've been on the website development side for a long time. I'm looking forward to a new challenge and learning techniques for coding web apps rather then content based websites.
+I've been on the website development side for a long time. I'm looking forward to a new challenge and learning techniques for coding web apps rather than content based websites.
  
 Q2
 In your career to date, what are you most proud of and why?
 
 Answer:
-I'm sure most people answer with a particular project they are proud of. I am proud of each and every project I work on because I really care about the users who are consuming the websites I work and given them the best possible user experience. I also really care about the back-end user experience and creating an easy to use interface that allows them to deliver the best possible experience. But those things I wouldn't say is what I'm most proud of, that's what I do everyday. 
-
-I started off my career as a graphic designer who got thrown into a web designer role, which then morphed into a developer role. Which each new role I have taken more technical challenges then with the last. I would say that I am most proud that I have been able to change my career path into something I really enjoy and that I continue to seek out new challenges everyday. 
+I'm sure most people answer with a particular project they are proud of.  I do have many projects that am proud of where I may have solved a difficult technical challenge or a complex UX hurtle.  But the projects I have completed isn’t what I would say I am most proud of.
+I started off my career as a graphic designer who got thrown into a web designer role, which then morphed into a developer role. Which each new role I have taken more technical challenges then with the last. I would say that I am most proud that I have been able to change my career path into something I really enjoy and that I continue to seek out new challenges everyday.
